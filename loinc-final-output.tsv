@@ -1,0 +1,316 @@
+loinc_code	name	display_name	range	scale_type	part_number	part_name	part_type
+10378-8	Polychromasia [Presence] in Blood by Light microscopy	Polychromasia LM Ql (Bld)		Ord	LP14574-5	Polychromasia	COMPONENT
+10380-4	Stomatocytes [Presence] in Blood by Light microscopy	Stomatocytes LM Ql (Bld)		Ord	LP14576-0	Stomatocytes	COMPONENT
+10381-2	Target cells [Presence] in Blood by Light microscopy	Target cells LM Ql (Bld)		Ord	LP14577-8	Target cells	COMPONENT
+10535-3	Digoxin [Mass/volume] in Serum or Plasma	Digoxin [Mass/Vol]		Qn	LP14714-7	Digoxin	COMPONENT
+10834-0	Globulin [Mass/volume] in Serum by calculation	Globulin Calc (S) [Mass/Vol]		Qn	LP14885-5	Globulin	COMPONENT
+10335-8	Color of Cerebral spinal fluid	Color (CSF)		Nom	LP28806-5	Color	COMPONENT
+11054-4	Cholesterol in LDL/Cholesterol in HDL [Mass Ratio] in Serum or Plasma	Cholesterol in LDL/Cholesterol in HDL [Mass ratio]		Qn	LP307369-1	Cholesterol.in LDL/Cholesterol.in HDL	COMPONENT
+11277-1	Epithelial cells.squamous [#/area] in Urine sediment by Microscopy high power field	Epithelial cells.squamous LM.HPF (Urine sed) [#/Area]		Qn	LP70260-2	Epithelial cells.squamous	COMPONENT
+11572-5	Rheumatoid factor [Units/volume] in Serum or Plasma	Rheumatoid factor Qn		Qn	LP16738-4	Rheumatoid factor	COMPONENT
+11579-0	Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L	TSH DL <= 0.05 mIU/L Qn		Qn	LP14487-0	Thyrotropin	COMPONENT
+10333-3	Appearance of Cerebral spinal fluid	Appearance (CSF)		Nom	LP14542-2	Appearance	COMPONENT
+12209-3	Eosinophils/100 leukocytes in Body fluid by Manual count	Eosinophils/100 WBC Manual cnt (Body fld)		Qn	LP285961-1	Eosinophils/100 leukocytes	COMPONENT
+12227-5	Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood	WBC corrected for nucl RBC (Bld) [#/Vol]		Qn	LP308158-7	Leukocytes^^corrected for nucleated erythrocytes	COMPONENT
+12454-5	Urate crystals amorphous [Presence] in Urine sediment by Light microscopy	Urate crystals amorphous LM Ql (Urine sed)		Ord	LP18118-7	Urate crystals.amorphous	COMPONENT
+12967-6	Urea nitrogen [Mass/volume] in 24 hour Urine	Urea nitrogen (24H U) [Mass/Vol]		Qn	LP14492-0	Urea nitrogen	COMPONENT
+13046-8	Variant lymphocytes/100 leukocytes in Blood	Variant lymphocytes/100 WBC (Bld)		Qn	LP286445-4	Lymphocytes.variant/100 leukocytes	COMPONENT
+1305-2	D Ag [Presence] in Blood	D Ag Ql (Bld)		Ord	LP37889-0	D Ag	COMPONENT
+13169-8	Immunoelectrophoresis for Serum or Plasma	Interpretation IEP [Interp]		Nom	LP21032-5	Interpretation	COMPONENT
+13317-3	Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture	MRSA isol Org specific cx Ql (Unsp spec)		Ord	LP18334-0	Staphylococcus aureus.methicillin resistant isolate	COMPONENT
+13457-7	Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation	Cholesterol in LDL Calc [Mass/Vol]	mg/dL:[0,130);	Qn	LP15491-1	Cholesterol.in LDL	COMPONENT
+13458-5	Cholesterol in VLDL [Mass/volume] in Serum or Plasma by calculation	Cholesterol in VLDL Calc [Mass/Vol]		Qn	LP15492-9	Cholesterol.in VLDL	COMPONENT
+13834-7	Total IgE [Units/volume] in Serum by Radioallergosorbent test (RAST)	Total IgE RAST Qn (S)		Qn	LP29069-9	IgE.total	COMPONENT
+13941-0	Lymphocytes/100 leukocytes in Body fluid by Manual count	Lymphocytes/100 WBC Manual cnt (Body fld)		Qn	LP286448-8	Lymphocytes/100 leukocytes	COMPONENT
+13952-7	Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay	HBV core Ab IA Ql		Ord	LP38323-9	Hepatitis B virus core Ab	COMPONENT
+13964-2	Methylmalonate [Moles/volume] in Serum or Plasma	Methylmalonate [Moles/Vol]		Qn	LP15735-1	Methylmalonate	COMPONENT
+13950-1	Hepatitis A virus IgM Ab [Presence] in Serum or Plasma by Immunoassay	HAV IgM IA Ql		Ord	LP38318-9	Hepatitis A virus Ab.IgM	COMPONENT
+13990-7	Alpha 1 globulin/Protein.total in Urine by Electrophoresis	Alpha 1 globulin Elph (U) [Mass fraction]		Qn	LP284938-0	Alpha 1 globulin/Protein.total	COMPONENT
+14118-4	Lactate [Mass/volume] in Serum or Plasma	Lactate [Mass/Vol]		Qn	LP15686-6	Lactate	COMPONENT
+10334-1	Cancer Ag 125 [Units/volume] in Serum or Plasma	Cancer Ag 125 Qn		Qn	LP14543-0	Cancer Ag 125	COMPONENT
+14314-9	Benzoylecgonine [Presence] in Urine by Screen method	Benzoylecgonine Screen Ql (U)		Ord	LP16047-0	Benzoylecgonine	COMPONENT
+14316-4	Benzodiazepines [Presence] in Urine by Screen method	Benzodiazepines Screen Ql (U)	:neg;	Ord	LP15014-1	Benzodiazepines	COMPONENT
+14196-0	Reticulocytes [#/volume] in Blood	Reticulocytes (Bld) [#/Vol]		Qn	LP16487-8	Reticulocytes	COMPONENT
+14338-8	Prealbumin [Mass/volume] in Serum or Plasma	Prealbumin [Mass/Vol]		Qn	LP15837-5	Prealbumin	COMPONENT
+14627-4	Bicarbonate [Moles/volume] in Venous blood	HCO3 (BldV) [Moles/Vol]	mmol/L:[24,28];	Qn	LP15441-6	Bicarbonate	COMPONENT
+14957-5	Microalbumin [Mass/volume] in Urine	Albumin DL <= 20 mg/L (U) [Mass/Vol]	mg/L:[0,20);	Qn	LP6118-6	Albumin	COMPONENT
+14327-1	Epithelial cells.squamous [Presence] in Sputum by Light microscopy	Epithelial cells.squamous LM Ql (Sput)		Ord	LP70260-2	Epithelial cells.squamous	COMPONENT
+14979-9	aPTT in Platelet poor plasma by Coagulation assay	aPTT Coag (PPP) [Time]		Qn	LP15957-1	Coagulation surface induced	COMPONENT
+10839-9	Troponin I.cardiac [Mass/volume] in Serum or Plasma	Troponin I.cardiac [Mass/Vol]		Qn	LP14890-5	Troponin I.cardiac	COMPONENT
+15152-2	Bilirubin.conjugated [Mass/volume] in Serum or Plasma	Bilirubin.conjugated [Mass/Vol]		Qn	LP15446-5	Bilirubin.glucuronidated	COMPONENT
+16135-6	Beta 2 glycoprotein 1 IgG Ab [Units/volume] in Serum	Beta 2 glycoprotein 1 IgG Qn (S)	U/mL:[0,10.0);	Qn	LP37266-1	Beta 2 glycoprotein 1 Ab.IgG	COMPONENT
+16136-4	Beta 2 glycoprotein 1 IgM Ab [Units/volume] in Serum	Beta 2 glycoprotein 1 IgM Qn (S)		Qn	LP37267-9	Beta 2 glycoprotein 1 Ab.IgM	COMPONENT
+16250-3	Codeine [Mass/volume] in Urine by Confirmatory method	Codeine Confirm (U) [Mass/Vol]		Qn	LP16093-4	Codeine	COMPONENT
+16251-1	Morphine [Mass/volume] in Urine by Confirmatory method	Morphine Confirm (U) [Mass/Vol]		Qn	LP15174-3	Morphine	COMPONENT
+12187-1	Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by Electrophoresis	CK.MB Elph [Catalytic fraction]		Qn	LP307397-2	Creatine kinase.MB/Creatine kinase.total	COMPONENT
+1649-3	Calcitriol [Mass/volume] in Serum or Plasma	1,25-dihydroxyvitamin D3 [Mass/Vol]		Qn	LP15277-4	Calcitriol	COMPONENT
+16935-9	Hepatitis B virus surface Ab [Units/volume] in Serum	HBV surface Ab Qn (S)		Qn	LP38330-4	Hepatitis B virus surface Ab	COMPONENT
+15061-5	Erythropoietin (EPO) [Units/volume] in Serum or Plasma	Erythropoietin (EPO) Qn		Qn	LP15554-6	Erythropoietin	COMPONENT
+1742-6	Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma	ALT [Catalytic activity/Vol]	U/L:0-25;	Qn	LP15333-5	Alanine aminotransferase	COMPONENT
+1747-5	Albumin [Mass/volume] in Body fluid	Albumin (Body fld) [Mass/Vol]		Qn	LP6118-6	Albumin	COMPONENT
+1752-5	Albumin [Mass/volume] in Synovial fluid	Albumin (Syn fld) [Mass/Vol]		Qn	LP6118-6	Albumin	COMPONENT
+1759-0	Albumin/Globulin [Mass Ratio] in Serum or Plasma	Albumin/Globulin [Mass ratio]		Qn	LP307328-7	Albumin/Globulin	COMPONENT
+17864-0	Calcium.ionized [Mass/volume] in Serum or Plasma by Ion-selective membrane electrode (ISE)	Calcium.ionized ISE [Mass/Vol]		Qn	LP15458-0	Calcium.ionized	COMPONENT
+1795-4	Amylase [Enzymatic activity/volume] in Body fluid	Amylase (Body fld) [Catalytic activity/Vol]		Qn	LP15355-8	Amylase	COMPONENT
+1763-2	Aldosterone [Mass/volume] in Serum or Plasma	Aldosterone [Mass/Vol]		Qn	LP14377-3	Aldosterone	COMPONENT
+1798-8	Amylase [Enzymatic activity/volume] in Serum or Plasma	Amylase [Catalytic activity/Vol]		Qn	LP15355-8	Amylase	COMPONENT
+18262-6	Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay	Cholesterol in LDL Direct assay [Mass/Vol]	mg/dL;[0,130);	Qn	LP15491-1	Cholesterol.in LDL	COMPONENT
+18282-4	Cannabinoids [Presence] in Urine by Screen method	Cannabinoids Screen Ql (U)		Ord	LP16058-7	Cannabinoids	COMPONENT
+18481-2	Streptococcus pyogenes Ag [Presence] in Throat	S. pyogenes Ag Ql (Throat)		Ord	LP39917-7	Streptococcus pyogenes Ag	COMPONENT
+19075-1	Cells Counted Total [#] in Cerebral spinal fluid	Cells Counted Total (CSF) [#]		Qn	LP29015-2	Cells counted.total	COMPONENT
+19123-9	Magnesium [Mass/volume] in Serum or Plasma	Magnesium [Mass/Vol]		Qn	LP14343-5	Magnesium	COMPONENT
+19124-7	Magnesium [Mass/volume] in Urine	Magnesium (U) [Mass/Vol]		Qn	LP14343-5	Magnesium	COMPONENT
+19161-9	Urobilinogen [Units/volume] in Urine by Test strip	Urobilinogen Test strip Qn (U)		Qn	LP15942-3	Urobilinogen	COMPONENT
+1920-8	Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma	AST [Catalytic activity/Vol]	U/L:[0,25];	Qn	LP15426-7	Aspartate aminotransferase	COMPONENT
+1925-7	Base excess in Arterial blood by calculation	Base excess Calc (BldA) [Moles/Vol]	mmol.L:[-2,+2];	Qn	LP15429-1	Base excess	COMPONENT
+19261-7	Amphetamines [Presence] in Urine by Screen method	Amphetamines Screen Ql (U)		Ord	LP16034-8	Amphetamines	COMPONENT
+19270-8	Barbiturates [Presence] in Urine by Screen method	Barbiturates Screen Ql (U)	:neg;	Ord	LP14546-3	Barbiturates	COMPONENT
+1927-3	Base excess in Venous blood by calculation	Base excess Calc (BldV) [Moles/Vol]	mmol.L:[-5,+5]:	Qn	LP15429-1	Base excess	COMPONENT
+19295-5	Opiates [Presence] in Urine by Screen method	Opiates Screen Ql (U)	:neg;	Ord	LP14565-3	Opiates	COMPONENT
+19343-3	Amphetamine [Presence] in Urine by Screen method	Amphetamine Screen Ql (U)	:neg;	Ord	LP18868-7	Amphetamine	COMPONENT
+1960-4	Bicarbonate [Moles/volume] in Arterial blood	HCO3 (BldA) [Moles/Vol]	mmol/L:[21,31];	Qn	LP15441-6	Bicarbonate	COMPONENT
+16998-7	HYDROmorphone [Mass/volume] in Urine by Confirmatory method	HYDROmorphone Confirm (U) [Mass/Vol]		Qn	LP16162-7	HYDROmorphone	COMPONENT
+17861-6	Calcium [Mass/volume] in Serum or Plasma	Calcium [Mass/Vol]	mg/dL:[9,10.5];	Qn	LP15257-6	Calcium	COMPONENT
+1971-1	Bilirubin.indirect [Mass/volume] in Serum or Plasma	Bilirubin.indirect [Mass/Vol]	mg/dL:[0.2,0.7];	Qn	LP15449-9	Bilirubin.non-glucuronidated	COMPONENT
+1975-2	Bilirubin.total [Mass/volume] in Serum or Plasma	Bilirubin [Mass/Vol]	mg/dL:[0.3,1.0];	Qn	LP15448-1	Bilirubin	COMPONENT
+1988-5	C reactive protein [Mass/volume] in Serum or Plasma	CRP [Mass/Vol]		Qn	LP15023-2	C reactive protein	COMPONENT
+19764-0	Statement of adequacy [Interpretation] of Cervical or vaginal smear or scraping by Cyto stain	Statement of adequacy Cyto stain (Cvx/Vag) [Interp]		Nom	LP19430-5	Statement of adequacy	COMPONENT
+1989-3	Calcidiol [Mass/volume] in Serum or Plasma	25-hydroxyvitamin D3 [Mass/Vol]		Qn	LP15455-6	Calcidiol	COMPONENT
+2019-8	Carbon dioxide [Partial pressure] in Arterial blood	CO2 (BldA) [Partial pressure]	mm[Hg]:[35,45];	Qn	LP15150-3	Carbon dioxide	COMPONENT
+2021-4	Carbon dioxide [Partial pressure] in Venous blood	CO2 (BldV) [Partial pressure]	mm[Hg]:[41,51];	Qn	LP15150-3	Carbon dioxide	COMPONENT
+2028-9	Carbon dioxide, total [Moles/volume] in Serum or Plasma	CO2 [Moles/Vol]	mmol/L:[21,30];	Qn	LP15150-3	Carbon dioxide	COMPONENT
+2039-6	Carcinoembryonic Ag [Mass/volume] in Serum or Plasma	Carcinoembryonic Ag [Mass/Vol]		Qn	LP28643-2	Carcinoembryonic Ag	COMPONENT
+20407-3	Nitrite [Mass/volume] in Urine by Test strip	Nitrite Test strip (U) [Mass/Vol]		Qn	LP14270-0	Nitrite	COMPONENT
+20408-1	Leukocytes [#/volume] in Urine by Test strip	WBC Test strip (U) [#/Vol]		Qn	LP14419-3	Leukocytes	COMPONENT
+20409-9	Erythrocytes [#/volume] in Urine by Test strip	RBC Test strip (U) [#/Vol]		Qn	LP14304-7	Erythrocytes	COMPONENT
+20454-5	Protein [Presence] in Urine by Test strip	Protein Test strip Ql (U)		Ord	LP15838-3	Protein	COMPONENT
+20507-0	Reagin Ab [Presence] in Serum by RPR	Reagin Ab RPR Ql (S)		Ord	LP39544-9	Reagin Ab	COMPONENT
+20578-1	Vancomycin [Mass/volume] in Serum or Plasma	Vancomycin [Mass/Vol]		Qn	LP16306-0	Vancomycin	COMPONENT
+2064-4	Ceruloplasmin [Mass/volume] in Serum or Plasma	Ceruloplasmin [Mass/Vol]		Qn	LP15479-6	Ceruloplasmin	COMPONENT
+2075-0	Chloride [Moles/volume] in Serum or Plasma	Chloride [Moles/Vol]	mmol/L:[98,106];	Qn	LP15483-8	Chloride	COMPONENT
+2079-2	Chloride [Moles/time] in 24 hour Urine	Chloride (24H U) [Moles/Time]		Qn	LP15483-8	Chloride	COMPONENT
+2085-9	Cholesterol in HDL [Mass/volume] in Serum or Plasma	Cholesterol in HDL [Mass/Vol]	mg/dL:[40,inf];	Qn	LP15489-5	Cholesterol.in HDL	COMPONENT
+14959-1	Microalbumin/Creatinine [Mass Ratio] in Urine	Albumin/Creatinine DL <= 20 mg/L (U) [Mass ratio]		Qn	LP284902-6	Albumin/Creatinine	COMPONENT
+2093-3	Cholesterol [Mass/volume] in Serum or Plasma	Cholesterol [Mass/Vol]	mg/dL:[0,200);	Qn	LP15493-7	Cholesterol	COMPONENT
+2112-1	Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Urine	Beta HCG (pregnancy test) Ql (U)		Ord	LP104998-2	Choriogonadotropin.beta subunit (pregnancy test)	COMPONENT
+21260-5	Epstein Barr virus nuclear Ab [Titer] in Serum by Immunofluorescence	EBV nuclear Ab IF (S) [Titer]		Qn	LP38074-8	Epstein Barr virus nuclear Ab	COMPONENT
+2132-9	Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma	Cobalamin (Vitamin B12) [Mass/Vol]		Qn	LP15505-8	Cobalamins	COMPONENT
+2143-6	Cortisol [Mass/volume] in Serum or Plasma	Cortisol [Mass/Vol]		Qn	LP14161-1	Cortisol	COMPONENT
+21525-1	Sodium [Moles/volume] in 24 hour Urine	Sodium (24H U) [Moles/Vol]		Qn	LP15099-2	Sodium	COMPONENT
+2157-6	Creatine kinase [Enzymatic activity/volume] in Serum or Plasma	CK [Catalytic activity/Vol]		Qn	LP15510-8	Creatine kinase	COMPONENT
+2160-0	Creatinine [Mass/volume] in Serum or Plasma	Creatinine [Mass/Vol]	mg/dL:[0,1.5);	Qn	LP14355-9	Creatinine	COMPONENT
+2161-8	Creatinine [Mass/volume] in Urine	Creatinine (U) [Mass/Vol]		Qn	LP14355-9	Creatinine	COMPONENT
+22327-1	Hepatitis C virus Ab [Units/volume] in Serum	HCV Ab Qn (S)		Qn	LP38332-0	Hepatitis C virus Ab	COMPONENT
+19642-8	oxyCODONE [Presence] in Urine by Screen method	oxyCODONE Screen Ql (U)	:neg;	Ord	LP15003-4	oxyCODONE	COMPONENT
+22763-7	Ammonia [Mass/volume] in Plasma	Ammonia (P) [Mass/Vol]		Qn	LP14071-2	Ammonia	COMPONENT
+2284-8	Folate [Mass/volume] in Serum or Plasma	Folate [Mass/Vol]		Qn	LP15575-1	Folate	COMPONENT
+2324-2	Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma	Gamma glutamyl transferase [Catalytic activity/Vol]		Qn	LP15590-0	Gamma glutamyl transferase	COMPONENT
+2334-1	Hemoglobin.gastrointestinal [Presence] in Gastric fluid	Hemoglobin.gastrointestinal Ql (Gast fld)		Ord	LP15597-5	Hemoglobin.gastrointestinal	COMPONENT
+2276-4	Ferritin [Mass/volume] in Serum or Plasma	Ferritin [Mass/Vol]		Qn	LP15568-6	Ferritin	COMPONENT
+2342-4	Glucose [Mass/volume] in Cerebral spinal fluid	Glucose (CSF) [Mass/Vol]		Qn	LP14635-4	Glucose	COMPONENT
+2344-0	Glucose [Mass/volume] in Body fluid	Glucose (Body fld) [Mass/Vol]		Qn	LP14635-4	Glucose	COMPONENT
+2345-7	Glucose [Mass/volume] in Serum or Plasma	Glucose [Mass/Vol]	mg/dL:[74,106];	Qn	LP14635-4	Glucose	COMPONENT
+2349-9	Glucose [Presence] in Urine	Glucose Ql (U)		Ord	LP14635-4	Glucose	COMPONENT
+17652-9	Streptococcus pneumoniae Ag [Presence] in Unspecified specimen by Latex agglutination	S. pneumoniae Ag LA Ql (Unsp spec)		Ord	LP39838-5	Streptococcus pneumoniae Ag	COMPONENT
+23860-0	Erythrocytes [#/volume] in Body fluid by Automated count	RBC Auto (Body fld) [#/Vol]		Qn	LP14304-7	Erythrocytes	COMPONENT
+24108-3	Cancer Ag 19-9 [Units/volume] in Serum or Plasma	Cancer Ag 19-9 Qn		Qn	LP14040-7	Cancer Ag 19-9	COMPONENT
+2458-8	IgA [Mass/volume] in Serum or Plasma	IgA [Mass/Vol]		Qn	LP14669-3	IgA	COMPONENT
+16252-9	HYDROcodone [Mass/volume] in Urine by Confirmatory method	HYDROcodone Confirm (U) [Mass/Vol]		Qn	LP16161-9	HYDROcodone	COMPONENT
+2357-2	Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells	G6PD (RBC) [Catalytic activity/Vol]		Qn	LP15601-5	Glucose-6-Phosphate dehydrogenase	COMPONENT
+24113-3	Hepatitis B virus core IgM Ab [Presence] in Serum or Plasma by Immunoassay	HBV core IgM IA Ql		Ord	LP38325-4	Hepatitis B virus core Ab.IgM	COMPONENT
+2472-9	IgM [Mass/volume] in Serum or Plasma	IgM [Mass/Vol]		Qn	LP14674-3	IgM	COMPONENT
+2498-4	Iron [Mass/volume] in Serum or Plasma	Iron [Mass/Vol]		Qn	LP15677-5	Iron	COMPONENT
+2501-5	Iron binding capacity.unsaturated [Mass/volume] in Serum or Plasma	Iron binding capacity.unsaturated [Mass/Vol]		Qn	LP15679-1	Iron binding capacity.unsaturated	COMPONENT
+2500-7	Iron binding capacity [Mass/volume] in Serum or Plasma	Iron binding capacity [Mass/Vol]		Qn	LP15678-3	Iron binding capacity	COMPONENT
+2514-8	Ketones [Presence] in Urine by Test strip	Ketones Test strip Ql (U)	:neg;	Ord	LP15683-3	Ketones	COMPONENT
+2502-3	Iron saturation [Mass Fraction] in Serum or Plasma	Iron saturation [Mass fraction]		Qn	LP32756-6	Iron saturation	COMPONENT
+2518-9	Lactate [Moles/volume] in Arterial blood	Lactate (BldA) [Moles/Vol]		Qn	LP15686-6	Lactate	COMPONENT
+2524-7	Lactate [Moles/volume] in Serum or Plasma	Lactate [Moles/Vol]		Qn	LP15686-6	Lactate	COMPONENT
+2529-6	Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid	LDH (Body fld) [Catalytic activity/Vol]		Qn	LP15033-1	Lactate dehydrogenase	COMPONENT
+2532-0	Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma	LDH [Catalytic activity/Vol]		Qn	LP15033-1	Lactate dehydrogenase	COMPONENT
+2571-8	Triglyceride [Mass/volume] in Serum or Plasma	Triglyceride [Mass/Vol]	mg/dL:[0,150);	Qn	LP15275-8	Triglyceride	COMPONENT
+26052-1	Epithelial cells.renal [#/area] in Urine sediment by Microscopy high power field	Epithelial cells.renal LM.HPF (Urine sed) [#/Area]		Qn	LP18394-4	Epithelial cells.renal	COMPONENT
+26449-9	Eosinophils [#/volume] in Blood	Eosinophils (Bld) [#/Vol]		Qn	LP14539-8	Eosinophils	COMPONENT
+26450-7	Eosinophils/100 leukocytes in Blood	Eosinophils/100 WBC (Bld)	%:[0,2];	Qn	LP285961-1	Eosinophils/100 leukocytes	COMPONENT
+26478-8	Lymphocytes/100 leukocytes in Blood	Lymphocytes/100 WBC (Bld)	%:[24,40];	Qn	LP286448-8	Lymphocytes/100 leukocytes	COMPONENT
+26485-3	Monocytes/100 leukocytes in Blood	Monocytes/100 WBC (Bld)	%:[4,9];	Qn	LP286557-6	Monocytes/100 leukocytes	COMPONENT
+26487-9	Monocytes/100 leukocytes in Body fluid	Monocytes/100 WBC (Body fld)		Qn	LP286557-6	Monocytes/100 leukocytes	COMPONENT
+26507-4	Band form neutrophils [#/volume] in Blood	Band form neutrophils (Bld) [#/Vol]		Qn	LP15070-3	Neutrophils.band form	COMPONENT
+26508-2	Band form neutrophils/100 leukocytes in Blood	Band form neutrophils/100 WBC (Bld)	%:[0,5);	Qn	LP286644-2	Neutrophils.band form/100 leukocytes	COMPONENT
+26511-6	Neutrophils/100 leukocytes in Blood	Neutrophils/100 WBC (Bld)	%:[47,63];	Qn	LP286653-3	Neutrophils/100 leukocytes	COMPONENT
+26513-2	Neutrophils/100 leukocytes in Body fluid	Neutrophils/100 WBC (Body fld)		Qn	LP286653-3	Neutrophils/100 leukocytes	COMPONENT
+2692-2	Osmolality of Serum or Plasma	Osmolality [Osmolality]		Qn	LP15272-5	Osmolality	COMPONENT
+2695-5	Osmolality of Urine	Osmolality (U) [Osmolality]		Qn	LP15272-5	Osmolality	COMPONENT
+2703-7	Oxygen [Partial pressure] in Arterial blood	Oxygen (BldA) [Partial pressure]	mm[Hg]:[80,100];	Qn	LP14536-4	Oxygen	COMPONENT
+2705-2	Oxygen [Partial pressure] in Venous blood	Oxygen (BldV) [Partial pressure]	mm[Hg]:[25,40]:	Qn	LP14536-4	Oxygen	COMPONENT
+2708-6	Oxygen saturation in Arterial blood	SaO2% (BldA) [Mass fraction]		Qn	LP21258-6	Oxygen saturation	COMPONENT
+27215-3	Deprecated Mitochondria M2 IgG Ab [Units/volume] in Serum	Mitochondria M2 IgG Qn (S)		Qn	LP39024-2	Mitochondria M2 Ab.IgG	COMPONENT
+2731-8	Parathyrin.intact [Mass/volume] in Serum or Plasma	Parathyrin.intact [Mass/Vol]		Qn	LP15778-1	Parathyrin.intact	COMPONENT
+27340-9	Cholesterol in HDL [Presence] in Serum or Plasma	Cholesterol in HDL Ql		Ord	LP15489-5	Cholesterol.in HDL	COMPONENT
+2744-1	pH of Arterial blood	pH (BldA)	:[7.35,7.45];	Qn	LP14752-7	pH	COMPONENT
+2748-2	pH of Body fluid	pH (Body fld)		Qn	LP14752-7	pH	COMPONENT
+2746-6	pH of Venous blood	pH (BldV)	:[7.32,7.42];	Qn	LP14752-7	pH	COMPONENT
+2777-1	Phosphate [Mass/volume] in Serum or Plasma	Phosphate [Mass/Vol]	mg/dL:[2.5,4.5];	Qn	LP14912-7	Phosphate	COMPONENT
+27822-6	Protein S actual/normal in Platelet poor plasma by Coagulation assay	Protein S actual/normal Coag (PPP) [Relative time]		Qn	LP174081-2	Protein S actual/Normal	COMPONENT
+2823-3	Potassium [Moles/volume] in Serum or Plasma	Potassium [Moles/Vol]	mmol/L:[3.5,5.0];	Qn	LP15098-4	Potassium	COMPONENT
+2828-2	Potassium [Moles/volume] in Urine	Potassium (U) [Moles/Vol]		Qn	LP15098-4	Potassium	COMPONENT
+28541-1	Metamyelocytes/100 leukocytes in Blood	Metamyelocytes/100 WBC (Bld)	%:[0,1);	Qn	LP286503-0	Metamyelocytes/100 leukocytes	COMPONENT
+28543-7	Basophils/100 leukocytes in Body fluid	Basophils/100 WBC (Body fld)		Qn	LP285063-6	Basophils/100 leukocytes	COMPONENT
+2857-1	Prostate specific Ag [Mass/volume] in Serum or Plasma	Prostate specific Ag [Mass/Vol]	ng/mL:[0,4.0];	Qn	LP18193-0	Prostate specific Ag	COMPONENT
+28642-7	Oxygen saturation in Arterial cord blood	SaO2% (BldCoA) [Mass fraction]		Qn	LP21258-6	Oxygen saturation	COMPONENT
+28643-5	Oxygen saturation in Venous cord blood	SaO2% (BldCoV) [Mass fraction]		Qn	LP21258-6	Oxygen saturation	COMPONENT
+2880-3	Protein [Mass/volume] in Cerebral spinal fluid	Protein (CSF) [Mass/Vol]		Qn	LP15838-3	Protein	COMPONENT
+2881-1	Protein [Mass/volume] in Body fluid	Protein (Body fld) [Mass/Vol]		Qn	LP15838-3	Protein	COMPONENT
+2885-2	Protein [Mass/volume] in Serum or Plasma	Protein [Mass/Vol]	g/dL:[5.5,8.0];	Qn	LP15838-3	Protein	COMPONENT
+2889-4	Protein [Mass/time] in 24 hour Urine	Protein (24H U) [Mass/Time]		Qn	LP15838-3	Protein	COMPONENT
+2947-0	Sodium [Moles/volume] in Blood	Sodium (Bld) [Moles/Vol]		Qn	LP15099-2	Sodium	COMPONENT
+2951-2	Sodium [Moles/volume] in Serum or Plasma	Sodium [Moles/Vol]	mmol/L:[136,145];	Qn	LP15099-2	Sodium	COMPONENT
+29615-2	Hepatitis B virus DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection	HBV DNA NAA+probe [#/Vol]		Qn	LP38320-5	Hepatitis B virus DNA	COMPONENT
+2965-2	Specific gravity of Urine	Specific gravity (U) [Rel density]		Qn	LP15865-6	Specific gravity	COMPONENT
+2986-8	Testosterone [Mass/volume] in Serum or Plasma	Testosterone [Mass/Vol]		Qn	LP14045-6	Testosterone	COMPONENT
+30089-7	Transitional cells [#/area] in Urine sediment by Microscopy high power field	Transitional cells LM.HPF (Urine sed) [#/Area]		Qn	LP17771-4	Transitional cells	COMPONENT
+30180-4	Basophils/100 leukocytes in Blood	Basophils/100 WBC (Bld)	%:[0,2];	Qn	LP285063-6	Basophils/100 leukocytes	COMPONENT
+3024-7	Thyroxine (T4) free [Mass/volume] in Serum or Plasma	Free T4 [Mass/Vol]		Qn	LP29119-2	Thyroxine.free	COMPONENT
+3026-2	Thyroxine (T4) [Mass/volume] in Serum or Plasma	T4 [Mass/Vol]		Qn	LP15900-1	Thyroxine	COMPONENT
+30313-1	Hemoglobin [Mass/volume] in Arterial blood	Hemoglobin (BldA) [Mass/Vol]	g/dL:[12.1,17.0];	Qn	LP14449-0	Hemoglobin	COMPONENT
+2091-7	Cholesterol in VLDL [Mass/volume] in Serum or Plasma	Cholesterol in VLDL [Mass/Vol]	mg/dL:[0,30);	Qn	LP15492-9	Cholesterol.in VLDL	COMPONENT
+3040-3	Lipase [Enzymatic activity/volume] in Serum or Plasma	Lipase [Catalytic activity/Vol]		Qn	LP14915-0	Triacylglycerol lipase	COMPONENT
+30405-5	Leukocytes [#/volume] in Urine	WBC (U) [#/Vol]		Qn	LP14419-3	Leukocytes	COMPONENT
+30436-0	Monocytes+Macrophages/100 leukocytes in Cerebral spinal fluid	Monocytes+Macrophages/100 WBC (CSF)		Qn	LP286560-0	Monocytes+Macrophages/100 leukocytes	COMPONENT
+30437-8	Monocytes+Macrophages/100 leukocytes in Body fluid	Monocytes+Macrophages/100 WBC (Body fld)		Qn	LP286560-0	Monocytes+Macrophages/100 leukocytes	COMPONENT
+3051-0	Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma	Free T3 [Mass/Vol]		Qn	LP29126-7	Triiodothyronine.free	COMPONENT
+3053-6	Triiodothyronine (T3) [Mass/volume] in Serum or Plasma	T3 [Mass/Vol]		Qn	LP15922-5	Triiodothyronine	COMPONENT
+3084-1	Urate [Mass/volume] in Serum or Plasma	Urate [Mass/Vol]		Qn	LP15935-7	Urate	COMPONENT
+30934-4	Natriuretic peptide B [Mass/volume] in Serum or Plasma	Natriuretic peptide B [Mass/Vol]		Qn	LP28609-3	Natriuretic peptide.B	COMPONENT
+2339-0	Glucose [Mass/volume] in Blood	Glucose (Bld) [Mass/Vol]		Qn	LP14635-4	Glucose	COMPONENT
+3097-3	Urea nitrogen/Creatinine [Mass Ratio] in Serum or Plasma	Urea nitrogen/Creatinine [Mass ratio]	:[6,22];	Qn	LP287338-0	Urea nitrogen/Creatinine	COMPONENT
+3174-0	Antithrombin [Units/volume] in Platelet poor plasma by Chromogenic method	Antithrombin Chromogenic method Qn (PPP)		Qn	LP15394-7	Antithrombin	COMPONENT
+3094-0	Urea nitrogen [Mass/volume] in Serum or Plasma	Urea nitrogen [Mass/Vol]	mg/mL:[10,20];	Qn	LP14492-0	Urea nitrogen	COMPONENT
+3182-3	Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay	Cardiolipin IgM IA Qn (S)		Qn	LP37538-3	Cardiolipin Ab.IgM	COMPONENT
+2465-3	IgG [Mass/volume] in Serum or Plasma	IgG [Mass/Vol]		Qn	LP14672-7	IgG	COMPONENT
+32167-9	Clarity of Urine	Clarity (U)		Nom	LP14742-8	Clarity	COMPONENT
+32356-8	Yeast [Presence] in Urine sediment by Light microscopy	Yeast LM Ql (Urine sed)		Ord	LP29134-1	Yeast	COMPONENT
+3255-7	Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay	Fibrinogen Coag (PPP) [Mass/Vol]		Qn	LP14704-8	Fibrinogen	COMPONENT
+32623-1	Platelet mean volume [Entitic volume] in Blood by Automated count	Platelet mean volume Auto (Bld) [Entitic vol]		Qn	LP17657-5	Platelet mean volume	COMPONENT
+32684-3	LMW Heparin [Units/volume] in Platelet poor plasma	LMW Heparin Qn (PPP)		Qn	LP16001-7	Heparin.low molecular weight	COMPONENT
+3209-4	Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay	Coagulation factor VIII activity actual/normal Coag (PPP) [Relative time]		Qn	LP174024-2	Coagulation factor VIII activity actual/Normal	COMPONENT
+3274-8	Heparin unfractionated [Units/volume] in Platelet poor plasma by Chromogenic method	Heparin unfractionated Chromogenic method Qn (PPP)		Qn	LP16002-5	Heparin.unfractionated	COMPONENT
+3284-7	Lupus anticoagulant neutralization platelet [Time] in Platelet poor plasma by Coagulation assay	Lupus anticoagulant neutralization platelet Coag (PPP) [Time]		Qn	LP16009-0	Lupus anticoagulant neutralization.platelet	COMPONENT
+3299-5	Acetaminophen [Presence] in Urine	Acetaminophen Ql (U)		Ord	LP14712-1	Acetaminophen	COMPONENT
+3181-5	Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay	Cardiolipin IgG IA Qn (S)		Qn	LP37537-5	Cardiolipin Ab.IgG	COMPONENT
+33037-3	Anion gap in Serum or Plasma	Anion gap [Moles/Vol]	mmol/L:[7,16];	Qn	LP30809-5	Anion gap	COMPONENT
+33249-4	Hyperchromia [Presence] in Blood by Light microscopy	Hyperchromia LM Ql (Bld)		Ord	LP31531-4	Hyperchromia	COMPONENT
+33768-3	Leukocyte clumps [#/volume] in Urine by Automated count	Leukocyte clumps Auto (U) [#/Vol]		Qn	LP31538-9	Leukocyte clumps	COMPONENT
+33905-1	Trichomonas sp [#/area] in Urine sediment by Microscopy high power field	Trichomonas sp LM.HPF (Urine sed) [#/Area]		Qn	LP14850-9	Trichomonas sp	COMPONENT
+33914-3	Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)	GFR/1.73 sq M.predicted MDRD [Vol rate/Area]		Qn	LP31686-6	Glomerular filtration rate/1.73 sq M.predicted	COMPONENT
+3397-7	Cocaine [Presence] in Urine	Cocaine Ql (U)		Ord	LP16048-8	Cocaine	COMPONENT
+3413-2	Buprenorphine [Mass/volume] in Serum or Plasma	Buprenorphine [Mass/Vol]		Qn	LP16054-6	Buprenorphine	COMPONENT
+34661-9	Actin IgG Ab [Units/volume] in Serum or Plasma	Actin IgG Qn		Qn	LP36958-4	Actin Ab.IgG	COMPONENT
+4024-6	Salicylates [Mass/volume] in Serum or Plasma	Salicylates [Mass/Vol]		Qn	LP16276-5	Salicylates	COMPONENT
+40665-2	Reticulocytes [#/volume] in Blood by Manual count	Reticulocytes Manual cnt (Bld) [#/Vol]		Qn	LP16487-8	Reticulocytes	COMPONENT
+4092-3	Vancomycin [Mass/volume] in Serum or Plasma --trough	Vancomycin trough [Mass/Vol]		Qn	LP308056-3	Vancomycin^trough	COMPONENT
+43304-5	Chlamydia trachomatis rRNA [Presence] in Unspecified specimen by NAA with probe detection	C. trachomatis rRNA NAA+probe Ql (Unsp spec)		Ord	LP37619-1	Chlamydia trachomatis rRNA	COMPONENT
+43396-1	Cholesterol non HDL [Mass/volume] in Serum or Plasma	Cholesterol non HDL [Mass/Vol]	mg/dL:[0,160);	Qn	LP36472-6	Cholesterol.non HDL	COMPONENT
+3273-0	Heparin unfractionated [Units/volume] in Platelet poor plasma by Coagulation assay	Heparin unfractionated Coag Qn (PPP)		Qn	LP16002-5	Heparin.unfractionated	COMPONENT
+43895-2	Influenza virus B Ag [Presence] in Nasopharynx	FLUBV Ag Ql (Nph)		Ord	LP38692-7	Influenza virus B Ag	COMPONENT
+4485-9	Complement C3 [Mass/volume] in Serum or Plasma	Complement C3 [Mass/Vol]		Qn	LP16359-9	Complement C3	COMPONENT
+4498-2	Complement C4 [Mass/volume] in Serum or Plasma	Complement C4 [Mass/Vol]		Qn	LP16371-4	Complement C4	COMPONENT
+44812-6	Yeast.hyphae [Presence] in Unspecified specimen by Wet preparation	Yeast.hyphae Wet prep Ql (Unsp spec)		Ord	LP35886-8	Yeast.hyphae	COMPONENT
+4537-7	Erythrocyte sedimentation rate by Westergren method	ESR Westergren method (Bld) [Velocity]		Qn	LP16409-2	Erythrocyte sedimentation rate	COMPONENT
+43874-7	Influenza virus A Ag [Presence] in Nasopharynx	FLUAV Ag Ql (Nph)		Ord	LP38644-8	Influenza virus A Ag	COMPONENT
+4544-3	Hematocrit [Volume Fraction] of Blood by Automated count	Hematocrit Auto (Bld) [Volume fraction]		Qn	LP15101-6	Hematocrit	COMPONENT
+4548-4	Hemoglobin A1c/Hemoglobin.total in Blood	HbA1c (Bld) [Mass fraction]	%:[3.8,6.4];	Qn	LP286151-8	Hemoglobin A1c/Hemoglobin.total	COMPONENT
+46082-4	Influenza virus A Ag [Presence] in Nasopharynx by Immunoassay	FLUAV Ag IA Ql (Nph)		Ord	LP38644-8	Influenza virus A Ag	COMPONENT
+46083-2	Influenza virus B Ag [Presence] in Nasopharynx by Immunoassay	FLUBV Ag IA Ql (Nph)		Ord	LP38692-7	Influenza virus B Ag	COMPONENT
+48065-7	Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma	Fibrin D-dimer FEU (PPP) [Mass/Vol]	ug/L{FEU}:[0,0.5);	Qn	LP62099-4	Fibrin D-dimer FEU	COMPONENT
+48642-3	Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)	GFR/1.73 sq M.predicted among non-blacks MDRD (S/P/Bld) [Vol rate/Area]	ml/min/{1.73m2}:[60,inf);	Qn	LP62820-3	Glomerular filtration rate/1.73 sq M.predicted.non black	COMPONENT
+48643-1	Glomerular filtration rate/1.73 sq M.predicted among blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)	GFR/1.73 sq M.predicted among blacks MDRD (S/P/Bld) [Vol rate/Area]	ml/min/{1.73m2}:[60,inf);	Qn	LP62821-1	Glomerular filtration rate/1.73 sq M.predicted.black	COMPONENT
+50410-0	dRVVT/dRVVT W excess phospholipid (screen to confirm ratio)	dRVVT/dRVVT.excess phospholipid Coag (PPP) [Ratio]		Qn	LP65486-0	Coagulation dilute Russell viper venom induced/Coagulation dilute Russell viper venom induced.excess phospholipid	COMPONENT
+50595-8	Pathologist interpretation of Unspecified specimen tests	Pathologist interpretation (Unsp spec) [Interp]		Nom	LP19483-4	Pathologist interpretation	COMPONENT
+3034-6	Transferrin [Mass/volume] in Serum or Plasma	Transferrin [Mass/Vol]		Qn	LP15907-6	Transferrin	COMPONENT
+5126-8	Cytomegalovirus IgM Ab [Units/volume] in Serum or Plasma by Immunoassay	CMV IgM IA Qn		Qn	LP37881-7	Cytomegalovirus Ab.IgM	COMPONENT
+5130-0	DNA double strand Ab [Units/volume] in Serum	DNA double strand Ab Qn (S)		Qn	LP37936-9	DNA double strand Ab	COMPONENT
+5196-1	Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay	HBV surface Ag IA Ql		Ord	LP38331-2	Hepatitis B virus surface Ag	COMPONENT
+547-0	Streptococcus.beta-hemolytic [Presence] in Unspecified specimen by Organism specific culture	Streptococcus.beta-hemolytic Org specific cx Ql (Unsp spec)		Ord	LP15187-5	Streptococcus.beta-hemolytic	COMPONENT
+5631-7	Copper [Mass/volume] in Serum or Plasma	Copper [Mass/Vol]		Qn	LP16814-3	Copper	COMPONENT
+5403-1	Varicella zoster virus IgG Ab [Units/volume] in Serum by Immunoassay	VZV IgG IA Qn (S)		Qn	LP40112-2	Varicella zoster virus Ab.IgG	COMPONENT
+5644-0	Ethanol [Presence] in Urine	Ethanol Ql (U)		Ord	LP14348-4	Ethanol	COMPONENT
+5763-8	Zinc [Mass/volume] in Serum or Plasma	Zinc [Mass/Vol]		Qn	LP14795-6	Zinc	COMPONENT
+5769-5	Bacteria [#/area] in Urine sediment by Microscopy high power field	Bacteria LM.HPF (Urine sed) [#/Area]		Qn	LP14082-9	Bacteria	COMPONENT
+5770-3	Bilirubin.total [Presence] in Urine by Test strip	Bilirubin Test strip Ql (U)		Ord	LP15448-1	Bilirubin	COMPONENT
+5774-5	Calcium oxalate crystals [Presence] in Urine sediment by Light microscopy	Calcium oxalate crystals LM Ql (Urine sed)		Ord	LP32874-7	Calcium oxalate crystals	COMPONENT
+5793-5	Granular casts [#/area] in Urine sediment by Microscopy low power field	Granular casts LM.LPF (Urine sed) [#/Area]		Qn	LP16856-4	Granular casts	COMPONENT
+5794-3	Hemoglobin [Presence] in Urine by Test strip	Hemoglobin Test strip Ql (U)		Ord	LP14449-0	Hemoglobin	COMPONENT
+5796-8	Hyaline casts [#/area] in Urine sediment by Microscopy low power field	Hyaline casts LM.LPF (Urine sed) [#/Area]		Qn	LP16857-2	Hyaline casts	COMPONENT
+580-1	Fungus identified in Unspecified specimen by Culture	Fungus identified Cx Nom (Unsp spec)		Nom	LP38202-5	Fungus identified	COMPONENT
+5799-2	Leukocyte esterase [Presence] in Urine by Test strip	Leukocyte esterase Test strip Ql (U)		Ord	LP15701-3	Leukocyte esterase	COMPONENT
+5803-2	pH of Urine by Test strip	pH Test strip (U)		Qn	LP14752-7	pH	COMPONENT
+5814-9	Triple phosphate crystals [Presence] in Urine sediment by Light microscopy	Triple phosphate crystals LM Ql (Urine sed)		Ord	LP16860-6	Triple phosphate crystals	COMPONENT
+5901-4	Prothrombin time (PT) in Control Platelet poor plasma by Coagulation assay	PT Coag (PPP control) [Time]		Qn	LP16870-5	Coagulation tissue factor induced	COMPONENT
+5902-2	Prothrombin time (PT)	PT Coag (PPP) [Time]	s:[8.3,10.8];	Qn	LP16870-5	Coagulation tissue factor induced	COMPONENT
+5817-2	Urate crystals [Presence] in Urine sediment by Light microscopy	Urate crystals LM Ql (Urine sed)		Ord	LP32885-3	Urate crystals	COMPONENT
+5908-9	Giant platelets [Presence] in Blood by Light microscopy	Giant platelets LM Ql (Bld)		Ord	LP16872-1	Platelets.giant	COMPONENT
+600-7	Bacteria identified in Blood by Culture	Bacteria identified Cx Nom (Bld)		Nom	LP37205-9	Bacteria identified	COMPONENT
+6298-4	Potassium [Moles/volume] in Blood	Potassium (Bld) [Moles/Vol]		Qn	LP15098-4	Potassium	COMPONENT
+6007-9	Protein C [Units/volume] in Platelet poor plasma by Coagulation assay	Protein C Coag Qn (PPP)		Qn	LP16485-2	Protein C	COMPONENT
+6301-6	INR in Platelet poor plasma by Coagulation assay	INR Coag (PPP) [Relative time]	:[0.9,1.2];	Qn	LP17102-2	Coagulation tissue factor induced.INR	COMPONENT
+6303-2	dRVVT (LA screen)	dRVVT Coag (PPP) [Time]		Qn	LP17104-8	Coagulation dilute Russell viper venom induced	COMPONENT
+630-4	Bacteria identified in Urine by Culture	Bacteria identified Cx Nom (U)		Nom	LP37205-9	Bacteria identified	COMPONENT
+634-6	Bacteria identified in Unspecified specimen by Aerobe culture	Bacteria identified Aer cx Nom (Unsp spec)		Nom	LP37205-9	Bacteria identified	COMPONENT
+635-3	Bacteria identified in Unspecified specimen by Anaerobe culture	Bacteria identified Anaer cx Nom (Unsp spec)		Nom	LP37205-9	Bacteria identified	COMPONENT
+6443-6	Lactoferrin [Presence] in Stool by Latex agglutination	Lactoferrin LA Ql (Stl)		Ord	LP15694-0	Lactoferrin	COMPONENT
+6460-0	Bacteria identified in Sputum by Culture	Bacteria identified Cx Nom (Sput)		Nom	LP37205-9	Bacteria identified	COMPONENT
+664-3	Microscopic observation [Identifier] in Unspecified specimen by Gram stain	Microscopic observation Gram stain Nom (Unsp spec)		Nom	LP40224-5	Microscopic observation	COMPONENT
+6690-2	Leukocytes [#/volume] in Blood by Automated count	WBC Auto (Bld) [#/Vol]		Qn	LP14419-3	Leukocytes	COMPONENT
+673-4	Ova and parasites identified in Unspecified specimen by Light microscopy	Ova and parasites identified LM Nom (Unsp spec)		Nom	LP39248-7	Ova & parasites identified	COMPONENT
+6742-1	Erythrocyte morphology finding [Identifier] in Blood	RBC morphology finding Nom (Bld)		Nom	LP99295-5	Erythrocyte morphology finding	COMPONENT
+6768-6	Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma	ALP [Catalytic activity/Vol]	U/L:[30,120];	Qn	LP15346-7	Alkaline phosphatase	COMPONENT
+6824-7	Color of Body fluid	Color (Body fld)		Nom	LP28806-5	Color	COMPONENT
+6968-2	Proteinase 3 Ab [Units/volume] in Serum	Proteinase 3 Ab Qn (S)		Qn	LP39491-3	Proteinase 3 Ab	COMPONENT
+702-1	Anisocytosis [Presence] in Blood by Light microscopy	Anisocytosis LM Ql (Bld)		Ord	LP17274-9	Anisocytosis	COMPONENT
+703-9	Basophilic stippling [Presence] in Blood by Light microscopy	Basophilic stippling LM Ql (Bld)		Ord	LP17278-0	Basophilic stippling	COMPONENT
+704-7	Basophils [#/volume] in Blood by Automated count	Basophils Auto (Bld) [#/Vol]		Qn	LP14328-6	Basophils	COMPONENT
+707-0	Basophils/100 leukocytes in Blood by Manual count	Basophils/100 WBC Manual cnt (Bld)		Qn	LP285063-6	Basophils/100 leukocytes	COMPONENT
+711-2	Eosinophils [#/volume] in Blood by Automated count	Eosinophils Auto (Bld) [#/Vol]		Qn	LP14539-8	Eosinophils	COMPONENT
+718-7	Hemoglobin [Mass/volume] in Blood	Hemoglobin (Bld) [Mass/Vol]	g/dL:[12.0,16.0];	Qn	LP14449-0	Hemoglobin	COMPONENT
+728-6	Hypochromia [Presence] in Blood by Light microscopy	Hypochromia LM Ql (Bld)		Ord	LP17388-7	Hypochromia	COMPONENT
+738-5	Macrocytes [Presence] in Blood by Light microscopy	Macrocytes LM Ql (Bld)		Ord	LP17441-4	Macrocytes	COMPONENT
+731-0	Lymphocytes [#/volume] in Blood by Automated count	Lymphocytes Auto (Bld) [#/Vol]		Qn	LP14540-6	Lymphocytes	COMPONENT
+7425-2	House dust Hollister Stier IgE Ab [Units/volume] in Serum	House dust Hollister Stier IgE Qn (S)		Qn	LP148427-0	House dust Hollister Stier Ab.IgE	COMPONENT
+741-9	Microcytes [Presence] in Blood by Light microscopy	Microcytes LM Ql (Bld)		Ord	LP17463-8	Microcytes	COMPONENT
+742-7	Monocytes [#/volume] in Blood by Automated count	Monocytes Auto (Bld) [#/Vol]		Qn	LP14313-8	Monocytes	COMPONENT
+751-8	Neutrophils [#/volume] in Blood by Automated count	Neutrophils Auto (Bld) [#/Vol]		Qn	LP14267-6	Neutrophils	COMPONENT
+774-0	Ovalocytes [Presence] in Blood by Light microscopy	Ovalocytes LM Ql (Bld)		Ord	LP17644-3	Ovalocytes	COMPONENT
+5124-3	Cytomegalovirus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay	CMV IgG IA Qn		Qn	LP37880-9	Cytomegalovirus Ab.IgG	COMPONENT
+7789-1	Acanthocytes [Presence] in Blood by Light microscopy	Acanthocytes LM Ql (Bld)		Ord	LP17674-0	Acanthocytes	COMPONENT
+7790-9	Burr cells [Presence] in Blood by Light microscopy	Burr cells LM Ql (Bld)		Ord	LP17676-5	Burr cells	COMPONENT
+7791-7	Dacrocytes [Presence] in Blood by Light microscopy	Dacrocytes LM Ql (Bld)		Ord	LP17677-3	Dacryocytes	COMPONENT
+7792-5	Dohle body [Presence] in Blood by Light microscopy	Dohle body LM Ql (Bld)		Ord	LP17678-1	Dohle body	COMPONENT
+7797-4	Rouleaux [Presence] in Blood by Light microscopy	Rouleaux LM Ql (Bld)		Ord	LP17684-9	Rouleaux	COMPONENT
+779-9	Poikilocytosis [Presence] in Blood by Light microscopy	Poikilocytosis LM Ql (Bld)		Ord	LP30906-9	Poikilocytosis	COMPONENT
+785-6	MCH [Entitic mass] by Automated count	MCH Auto (RBC) [Entitic mass]		Qn	LP17689-8	Erythrocyte mean corpuscular hemoglobin	COMPONENT
+786-4	MCHC [Mass/volume] by Automated count	MCHC Auto (RBC) [Mass/Vol]		Qn	LP17695-5	Erythrocyte mean corpuscular hemoglobin concentration	COMPONENT
+787-2	MCV [Entitic volume] by Automated count	MCV Auto (RBC) [Entitic vol]		Qn	LP15191-7	Erythrocyte mean corpuscular volume	COMPONENT
+788-0	Erythrocyte distribution width [Ratio] by Automated count	Erythrocyte distribution width Auto (RBC) [Ratio]		Qn	LP17698-9	Erythrocyte distribution width	COMPONENT
+7885-7	Epstein Barr virus capsid IgG Ab [Units/volume] in Serum	EBV capsid IgG Qn (S)		Qn	LP38070-6	Epstein Barr virus capsid Ab.IgG	COMPONENT
+7886-5	Epstein Barr virus capsid IgM Ab [Units/volume] in Serum	EBV capsid IgM Qn (S)		Qn	LP38071-4	Epstein Barr virus capsid Ab.IgM	COMPONENT
+789-8	Erythrocytes [#/volume] in Blood by Automated count	RBC Auto (Bld) [#/Vol]		Qn	LP14304-7	Erythrocytes	COMPONENT
+7909-5	Herpes simplex virus 1 IgG Ab [Units/volume] in Serum	HSV 1 IgG Qn (S)		Qn	LP38363-5	Herpes simplex virus 1 Ab.IgG	COMPONENT
+792-2	Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count	RBC Manual cnt (CSF) [#/Vol]		Qn	LP14304-7	Erythrocytes	COMPONENT
+7912-9	Herpes simplex virus 2 IgG Ab [Units/volume] in Serum	HSV 2 IgG Qn (S)		Qn	LP38378-3	Herpes simplex virus 2 Ab.IgG	COMPONENT
+802-9	Spherocytes [Presence] in Blood by Light microscopy	Spherocytes LM Ql (Bld)		Ord	LP17717-7	Spherocytes	COMPONENT
+800-3	Schistocytes [Presence] in Blood by Light microscopy	Schistocytes LM Ql (Bld)		Ord	LP17715-1	Schistocytes	COMPONENT
+8061-4	Nuclear Ab [Presence] in Serum	Nuclear Ab Ql (S)		Ord	LP20752-9	Nuclear Ab	COMPONENT
+803-7	Toxic granules [Presence] in Blood by Light microscopy	Toxic granules LM Ql (Bld)		Ord	LP17721-9	Toxic granules	COMPONENT
+8247-9	Mucus [Presence] in Urine sediment by Light microscopy	Mucus LM Ql (Urine sed)		Ord	LP17770-6	Mucus	COMPONENT
+8248-7	Spermatozoa [Presence] in Urine sediment by Light microscopy	Spermatozoa LM Ql (Urine sed)		Ord	LP14765-9	Spermatozoa	COMPONENT
+882-1	ABO and Rh group [Type] in Blood	ABO and Rh group Nom (Bld)		Nom	LP36683-8	ABO & Rh group	COMPONENT
+883-9	ABO group [Type] in Blood	ABO group Nom (Bld)		Nom	LP17806-8	ABO group	COMPONENT
+890-4	Blood group antibody screen [Presence] in Serum or Plasma	Blood group antibody screen Ql		Ord	LP67167-4	Blood group antibody screen	COMPONENT
+9335-1	Appearance of Body fluid	Appearance (Body fld)		Nom	LP14542-2	Appearance	COMPONENT
+9425-0	Acetone [Mass/volume] in Blood	Acetone (Bld) [Mass/Vol]		Qn	LP16798-8	Acetone	COMPONENT
+9796-4	Color of Stone	Color (Stone)		Nom	LP28806-5	Color	COMPONENT
+9820-2	Cryptococcus sp Ag [Titer] in Serum by Latex agglutination	Cryptococcus sp Ag LA (S) [Titer]		Qn	LP37839-5	Cryptococcus sp Ag	COMPONENT
+777-3	Platelets [#/volume] in Blood by Automated count	Platelets Auto (Bld) [#/Vol]		Qn	LP14597-6	Platelets	COMPONENT
+4542-7	Haptoglobin [Mass/volume] in Serum or Plasma	Haptoglobin [Mass/Vol]		Qn	LP16411-8	Haptoglobin	COMPONENT
+32998-7	Tissue transglutaminase IgG Ab [Units/volume] in Serum	tTG IgG Qn (S)		Qn	LP40013-2	Tissue transglutaminase Ab.IgG	COMPONENT
